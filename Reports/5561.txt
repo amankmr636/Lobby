@@ -1,0 +1,11 @@
+							----------Blood Report----------- 
+Report ID: 5561		 Blood Group: A+			Patient ID: 3162			Doc ID: 104			Date: 2022-04-21
+
+Component: 				Result: 				Normal Range
+
+ALT : 				12				7 to 56 U/L
+ALP : 				33				44 to 147 U/L
+Bilirubin : 				23				0.3 to 1.2 
+WBC : 				324				4500 to 11000 U/L
+Haemoglobin : 				22				13.2 to 16.6 g/dL
+RBC : 				444

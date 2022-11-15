@@ -1,0 +1,7 @@
+							----------Bill----------- 
+Bill ID: 2443		Bill Type: Medicine			Patient ID: 3162			Doc ID: 0			Date: 2022-11-15
+
+Medicine:Aspirin						0 X 1
+
+
+--------------------Total Bill Rs			0------------------------

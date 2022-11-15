@@ -1,0 +1,17 @@
+Date:		2021-12-02
+Patient ID:		3051
+Patient Name:		
+Age:		
+Doctor ID:		123
+Disease:		Chhicken pox
+Medicine 1:		Crocin		Qty1:		1
+Medicine 2:		Paracip		Qty2:		3
+Medicine 3:		Saridon		Qty3:		2
+Medicine 4:		None4		Qty4:		0
+Medicine 5:		None5		Qty5:		0
+Remarks:		
+
+
+---------------------------------------
+
+

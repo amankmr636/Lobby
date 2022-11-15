@@ -1,0 +1,15 @@
+Date:		2021-11-12
+Patient ID:		2203
+Doctor ID:		104
+Disease:		Malaria
+Medicine 1:				Qty1:		0
+Medicine 2:				Qty2:		0
+Medicine 3:				Qty3:		0
+Medicine 4:				Qty4:		0
+Medicine 5:				Qty5:		0
+Remarks:		
+
+
+---------------------------------------
+
+

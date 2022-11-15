@@ -1,0 +1,17 @@
+Date:		2021-11-12
+Patient ID:		3162
+Patient Name:		Raj Mohan
+Age:		16
+Doctor ID:		417
+Disease:		Stomach Infection
+Medicine 1:		Aspirin		Qty1:		2
+Medicine 2:		axc		Qty2:		1
+Medicine 3:		Benadryl		Qty3:		1
+Medicine 4:		Crocin		Qty4:		2
+Medicine 5:		Paracip		Qty5:		2
+Remarks:		
+
+
+---------------------------------------
+
+

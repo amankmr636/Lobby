@@ -1,0 +1,9 @@
+							----------Bill----------- 
+Bill ID: 6196		Bill Type: Medicine			Patient ID: 3162			Doc ID: 104			Date: 2021-12-02
+
+Medicine:Aspirin						71 X 2
+Medicine:Benadryl						85 X 3
+Room: Single		AC:No			(1700)X12days
+
+
+--------------------Total Bill Rs			20797------------------------

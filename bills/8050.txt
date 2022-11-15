@@ -1,0 +1,8 @@
+							----------Bill----------- 
+Bill ID: 8050		Bill Type: Medicine			Patient ID: 3162			Doc ID: 123			Date: 2022-04-21
+
+Medicine:Benadryl						85 X 2
+Room: General		AC:Yes			(700+300)X34days
+
+
+--------------------Total Bill Rs			34170------------------------

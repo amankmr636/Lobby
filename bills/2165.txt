@@ -1,0 +1,4 @@
+							----------Bill----------- 
+Bill ID: 2165		Bill Type: Medicine			Patient ID: 1919			Doc ID: 101			Time: 2021-11-11
+
+

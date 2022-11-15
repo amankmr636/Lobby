@@ -1,0 +1,17 @@
+Date:		2021-12-02
+Patient ID:		3844
+Patient Name:		prashik
+Age:		69
+Doctor ID:		104
+Disease:		fever
+Medicine 1:		Aspirin		Qty1:		4
+Medicine 2:		Crocin		Qty2:		2
+Medicine 3:		Paracip		Qty3:		2
+Medicine 4:		None4		Qty4:		0
+Medicine 5:		None5		Qty5:		0
+Remarks:		
+
+
+---------------------------------------
+
+

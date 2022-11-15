@@ -1,0 +1,9 @@
+							----------Bill----------- 
+Bill ID: 9238		Bill Type: Both			Patient ID: 5152			Doc ID: 104			Date: 2021-11-12
+
+Medicine:Benadryl						85 X 1
+Medicine:axc						130 X 1
+Room: Single		AC:No			(1700)X21days
+
+
+--------------------Total Bill Rs			35915------------------------

@@ -1,0 +1,17 @@
+Date:		2022-04-21
+Patient ID:		7919
+Patient Name:		Srushti Deshmukh
+Age:		35
+Doctor ID:		8282
+Disease:		Jaundice
+Medicine 1:		Amoxicillin		Qty1:		1
+Medicine 2:		Aspirin		Qty2:		2
+Medicine 3:		Benadryl		Qty3:		1
+Medicine 4:		None4		Qty4:		0
+Medicine 5:		None5		Qty5:		0
+Remarks:		
+
+
+---------------------------------------
+
+
